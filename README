@@ -1,0 +1,3 @@
+mkdir bin/x86/iso/boot/grub
+cp grub.cfg bin/x86/iso/boot/grub/
+cp bin/x86/os.bin bin/x86/iso/boot/
